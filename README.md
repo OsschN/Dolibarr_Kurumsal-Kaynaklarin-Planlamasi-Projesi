@@ -1,1 +1,1 @@
-# Kurumsal-Kaynaklar-n-Planlamas--Projesi
+# Kurumsal Kaynakların Planlaması dersi altında Dolibarr programıyla oluşturduğum sanal şirket.
