@@ -1,0 +1,1 @@
+# Kurumsal-Kaynaklar-n-Planlamas--Projesi
